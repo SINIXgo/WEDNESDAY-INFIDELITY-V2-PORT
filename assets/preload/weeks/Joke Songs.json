@@ -1,0 +1,41 @@
+{
+	"storyName": "Extra Songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"songs": [
+		[
+			"Reefer-Madness",
+			"munchies",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"clubhouse",
+			"dad",
+			[
+				124,
+				124,
+				124
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Extra Songs",
+	"hiddenUntilUnlocked": false
+}
