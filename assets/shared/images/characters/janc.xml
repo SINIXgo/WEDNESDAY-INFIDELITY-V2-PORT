@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JANC MOUSE NEW.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hank Down Shoot instancia 10000" x="0" y="0" width="443" height="331" frameX="0" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10001" x="443" y="0" width="631" height="333" frameX="0" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10002" x="1074" y="0" width="788" height="320" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10003" x="1862" y="0" width="272" height="320" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10004" x="2134" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10005" x="2134" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10006" x="2406" y="0" width="274" height="318" frameX="-1" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10007" x="2406" y="0" width="274" height="318" frameX="-1" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10008" x="2680" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10009" x="2680" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10010" x="2952" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10011" x="2952" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10012" x="2134" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Down Shoot instancia 10013" x="2134" y="0" width="272" height="318" frameX="-3" frameY="0" frameWidth="791" frameHeight="333"/>
+	<SubTexture name="Hank Left Shoot instancia 10000" x="3224" y="0" width="418" height="315" frameX="-20" frameY="0" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10001" x="0" y="333" width="626" height="289" frameX="0" frameY="0" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10002" x="626" y="333" width="761" height="279" frameX="-25" frameY="0" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10003" x="1387" y="333" width="287" height="279" frameX="-25" frameY="0" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10004" x="1674" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10005" x="1674" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10006" x="1961" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10007" x="1961" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10008" x="2248" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10009" x="2248" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10010" x="2535" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10011" x="2535" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10012" x="1674" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Left Shoot instancia 10013" x="1674" y="333" width="287" height="277" frameX="-26" frameY="-2" frameWidth="786" frameHeight="315"/>
+	<SubTexture name="Hank Up shoot instancia 10000" x="2822" y="333" width="424" height="342" frameX="0" frameY="-3" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10001" x="3246" y="333" width="612" height="328" frameX="0" frameY="0" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10002" x="0" y="675" width="769" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10003" x="769" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10004" x="1027" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10005" x="1027" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10006" x="1285" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10007" x="1285" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10008" x="1543" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10009" x="1543" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10010" x="1801" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10011" x="1801" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10012" x="1027" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank Up shoot instancia 10013" x="1027" y="675" width="258" height="319" frameX="-4" frameY="-9" frameWidth="773" frameHeight="345"/>
+	<SubTexture name="Hank right shoot instancia 10000" x="2059" y="675" width="484" height="319" frameX="0" frameY="0" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10001" x="2543" y="675" width="672" height="293" frameX="0" frameY="0" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10002" x="3215" y="675" width="832" height="293" frameX="0" frameY="0" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10003" x="0" y="994" width="298" height="293" frameX="0" frameY="0" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10004" x="298" y="994" width="294" height="292" frameX="0" frameY="-1" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10005" x="298" y="994" width="294" height="292" frameX="0" frameY="-1" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10006" x="592" y="994" width="294" height="292" frameX="0" frameY="-1" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10007" x="592" y="994" width="294" height="292" frameX="0" frameY="-1" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank right shoot instancia 10008" x="886" y="994" width="294" height="292" frameX="0" frameY="-1" frameWidth="832" frameHeight="319"/>
+	<SubTexture name="Hank screamright instancia 10000" x="1180" y="994" width="378" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10001" x="1558" y="994" width="393" height="290"/>
+	<SubTexture name="Hank screamright instancia 10002" x="1951" y="994" width="392" height="290" frameX="0" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10003" x="2343" y="994" width="374" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10004" x="2717" y="994" width="373" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10005" x="3090" y="994" width="376" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10006" x="3466" y="994" width="378" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10007" x="0" y="1287" width="377" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10008" x="377" y="1287" width="380" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10009" x="757" y="1287" width="377" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10010" x="1134" y="1287" width="378" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10011" x="1512" y="1287" width="377" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10012" x="1889" y="1287" width="380" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10013" x="2269" y="1287" width="377" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10014" x="2646" y="1287" width="378" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10015" x="3024" y="1287" width="377" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10016" x="3401" y="1287" width="380" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10017" x="0" y="1577" width="377" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="Hank screamright instancia 10018" x="377" y="1577" width="378" height="290" frameX="-1" frameY="0" frameWidth="393" frameHeight="290"/>
+	<SubTexture name="HankScaredIdle instancia 10000" x="755" y="1577" width="261" height="310" frameX="0" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10001" x="755" y="1577" width="261" height="310" frameX="0" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10002" x="1016" y="1577" width="261" height="310" frameX="-2" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10003" x="1016" y="1577" width="261" height="310" frameX="-2" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10004" x="1277" y="1577" width="262" height="310" frameX="-4" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10005" x="1277" y="1577" width="262" height="310" frameX="-4" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10006" x="1539" y="1577" width="259" height="310" frameX="-7" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10007" x="1539" y="1577" width="259" height="310" frameX="-7" frameY="-2" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10008" x="1798" y="1577" width="258" height="312" frameX="-7" frameY="0" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10009" x="1798" y="1577" width="258" height="312" frameX="-7" frameY="0" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10010" x="2056" y="1577" width="258" height="312" frameX="-7" frameY="0" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10011" x="2056" y="1577" width="258" height="312" frameX="-7" frameY="0" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10012" x="2314" y="1577" width="258" height="312" frameX="-7" frameY="0" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredIdle instancia 10013" x="2314" y="1577" width="258" height="312" frameX="-7" frameY="0" frameWidth="266" frameHeight="312"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10000" x="2572" y="1577" width="267" height="285" frameX="0" frameY="-33" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10001" x="2572" y="1577" width="267" height="285" frameX="0" frameY="-33" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10002" x="2839" y="1577" width="345" height="320" frameX="-17" frameY="0" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10003" x="3184" y="1577" width="461" height="320" frameX="-15" frameY="0" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10004" x="0" y="1897" width="553" height="304" frameX="-11" frameY="-15" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10005" x="553" y="1897" width="296" height="304" frameX="-11" frameY="-15" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10006" x="849" y="1897" width="296" height="297" frameX="-9" frameY="-22" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10007" x="849" y="1897" width="296" height="297" frameX="-9" frameY="-22" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10008" x="1145" y="1897" width="297" height="296" frameX="-8" frameY="-23" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10009" x="1145" y="1897" width="297" height="296" frameX="-8" frameY="-23" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10010" x="1442" y="1897" width="297" height="296" frameX="-8" frameY="-23" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10011" x="1442" y="1897" width="297" height="296" frameX="-8" frameY="-23" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10012" x="1739" y="1897" width="297" height="296" frameX="-8" frameY="-23" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10013" x="1739" y="1897" width="297" height="296" frameX="-8" frameY="-23" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="HankScaredShootsTiky instancia 10014" x="2036" y="1897" width="297" height="296" frameX="-8" frameY="-23" frameWidth="564" frameHeight="320"/>
+	<SubTexture name="Janc Down instancia 10000" x="3548" y="1897" width="306" height="259" frameX="0" frameY="-6" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 10001" x="3548" y="1897" width="306" height="259" frameX="0" frameY="-6" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 10002" x="2333" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10003" x="2333" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10004" x="2636" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10005" x="2636" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10006" x="2939" y="1897" width="305" height="264" frameX="-1" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10007" x="2939" y="1897" width="305" height="264" frameX="-1" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10008" x="3244" y="1897" width="304" height="264" frameX="-2" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10009" x="3244" y="1897" width="304" height="264" frameX="-2" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10010" x="2333" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10011" x="2333" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10012" x="2636" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 10013" x="2636" y="1897" width="303" height="264" frameX="-3" frameY="0" frameWidth="306" frameHeight="264"/>
+	<SubTexture name="Janc Down instancia 20000" x="3548" y="1897" width="306" height="259" frameX="0" frameY="-6" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20001" x="3548" y="1897" width="306" height="259" frameX="0" frameY="-6" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20002" x="0" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20003" x="0" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20004" x="303" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20005" x="303" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20006" x="606" y="2201" width="305" height="265" frameX="-1" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20007" x="606" y="2201" width="305" height="265" frameX="-1" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20008" x="911" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20009" x="911" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20010" x="0" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20011" x="0" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20012" x="303" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Down instancia 20013" x="303" y="2201" width="303" height="265" frameX="-3" frameY="0" frameWidth="306" frameHeight="265"/>
+	<SubTexture name="Janc Idle instancia 10000" x="1214" y="2201" width="222" height="294" frameX="0" frameY="-10" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10001" x="1214" y="2201" width="222" height="294" frameX="0" frameY="-10" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10002" x="1436" y="2201" width="221" height="293" frameX="-1" frameY="-11" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10003" x="1436" y="2201" width="221" height="293" frameX="-1" frameY="-11" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10004" x="1657" y="2201" width="220" height="302" frameX="-2" frameY="-3" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10005" x="1657" y="2201" width="220" height="302" frameX="-2" frameY="-3" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10006" x="1877" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10007" x="1877" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10008" x="2097" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10009" x="2317" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10010" x="2537" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10011" x="2757" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10012" x="2977" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Idle instancia 10013" x="3197" y="2201" width="220" height="305" frameX="-2" frameY="0" frameWidth="222" frameHeight="305"/>
+	<SubTexture name="Janc Left instancia 10000" x="3417" y="2201" width="310" height="293" frameX="0" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10001" x="3417" y="2201" width="310" height="293" frameX="0" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10002" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10003" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10004" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10005" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10006" x="297" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10007" x="297" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10008" x="594" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10009" x="594" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10010" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10011" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10012" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 10013" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20000" x="3417" y="2201" width="310" height="293" frameX="0" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20001" x="3417" y="2201" width="310" height="293" frameX="0" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20002" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20003" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20004" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20005" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20006" x="297" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20007" x="297" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20008" x="594" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20009" x="594" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20010" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20011" x="3727" y="2201" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20012" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Left instancia 20013" x="0" y="2506" width="297" height="294" frameX="-13" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="Janc Rigth instancia 10000" x="891" y="2506" width="278" height="302" frameX="0" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10001" x="891" y="2506" width="278" height="302" frameX="0" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10002" x="1169" y="2506" width="271" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10003" x="1169" y="2506" width="271" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10004" x="1440" y="2506" width="271" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10005" x="1440" y="2506" width="271" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10006" x="1711" y="2506" width="271" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10007" x="1711" y="2506" width="271" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 10008" x="1982" y="2506" width="271" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20000" x="2253" y="2506" width="278" height="301" frameX="0" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20001" x="2253" y="2506" width="278" height="301" frameX="0" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20002" x="2531" y="2506" width="270" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20003" x="2531" y="2506" width="270" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20004" x="2801" y="2506" width="270" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20005" x="2801" y="2506" width="270" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20006" x="3071" y="2506" width="270" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20007" x="3071" y="2506" width="270" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Rigth instancia 20008" x="3341" y="2506" width="270" height="311" frameX="-1" frameY="0" frameWidth="278" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10000" x="3611" y="2506" width="238" height="311" frameX="0" frameY="0" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10001" x="3611" y="2506" width="238" height="311" frameX="0" frameY="0" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10002" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10003" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10004" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10005" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10006" x="240" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10007" x="240" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10008" x="480" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10009" x="480" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10010" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10011" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10012" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 10013" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20000" x="720" y="2817" width="238" height="311" frameX="0" frameY="0" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20001" x="720" y="2817" width="238" height="311" frameX="0" frameY="0" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20002" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20003" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20004" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20005" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20006" x="240" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20007" x="240" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20008" x="480" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20009" x="480" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20010" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20011" x="3849" y="2506" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20012" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="Janc Up instancia 20013" x="0" y="2817" width="240" height="305" frameX="-2" frameY="-6" frameWidth="242" frameHeight="311"/>
+	<SubTexture name="hanktaunt instancia 10000" x="958" y="2817" width="227" height="298" frameX="-55" frameY="0" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10001" x="958" y="2817" width="227" height="298" frameX="-55" frameY="0" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10002" x="1185" y="2817" width="326" height="297" frameX="-4" frameY="-3" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10003" x="1511" y="2817" width="326" height="297" frameX="-4" frameY="-3" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10004" x="1837" y="2817" width="336" height="287" frameX="-2" frameY="-13" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10005" x="2173" y="2817" width="336" height="287" frameX="-2" frameY="-13" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10006" x="2509" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10007" x="2847" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10008" x="2847" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10009" x="3185" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10010" x="3185" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10011" x="3523" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10012" x="3523" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10013" x="2509" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10014" x="2509" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+	<SubTexture name="hanktaunt instancia 10015" x="2847" y="2817" width="338" height="290" frameX="0" frameY="-10" frameWidth="338" frameHeight="300"/>
+</TextureAtlas>
