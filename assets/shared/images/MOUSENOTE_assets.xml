@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MOUSENOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="159" height="170" frameX="0" frameY="-2" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="blue0001" x="159" y="0" width="159" height="171" frameX="0" frameY="-1" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="blue0002" x="318" y="0" width="159" height="172"/>
+	<SubTexture name="blue0003" x="0" y="172" width="159" height="169" frameX="0" frameY="-3" frameWidth="159" frameHeight="172"/>
+
+	<SubTexture name="red0000" x="0" y="0" width="159" height="170" frameX="0" frameY="-2" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="red0001" x="159" y="0" width="159" height="171" frameX="0" frameY="-1" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="red0002" x="318" y="0" width="159" height="172"/>
+	<SubTexture name="red0003" x="0" y="172" width="159" height="169" frameX="0" frameY="-3" frameWidth="159" frameHeight="172"/>
+
+	<SubTexture name="green0000" x="0" y="0" width="159" height="170" frameX="0" frameY="-2" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="green0001" x="159" y="0" width="159" height="171" frameX="0" frameY="-1" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="green0002" x="318" y="0" width="159" height="172"/>
+	<SubTexture name="green0003" x="0" y="172" width="159" height="169" frameX="0" frameY="-3" frameWidth="159" frameHeight="172"/>
+
+	<SubTexture name="purple0000" x="0" y="0" width="159" height="170" frameX="0" frameY="-2" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="purple0001" x="159" y="0" width="159" height="171" frameX="0" frameY="-1" frameWidth="159" frameHeight="172"/>
+	<SubTexture name="purple0002" x="318" y="0" width="159" height="172"/>
+	<SubTexture name="purple0003" x="0" y="172" width="159" height="169" frameX="0" frameY="-3" frameWidth="159" frameHeight="172"/>
+</TextureAtlas>
