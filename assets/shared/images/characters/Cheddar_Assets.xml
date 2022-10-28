@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cheddar_Assets.png">
+	
+	
+	<SubTexture name="Cheddar-down0000" x="0" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0001" x="0" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0002" x="576" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0003" x="576" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0004" x="1152" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0005" x="1152" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0006" x="1152" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0007" x="1152" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0008" x="1152" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-down0009" x="1152" y="0" width="576" height="330" />
+	<SubTexture name="Cheddar-idle0000" x="0" y="330" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0001" x="0" y="330" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0002" x="520" y="330" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0003" x="520" y="330" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0004" x="1041" y="330" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0005" x="1041" y="330" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0006" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0007" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0008" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0009" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0010" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0011" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0012" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-idle0013" x="0" y="747" width="520" height="417" />
+	<SubTexture name="Cheddar-left0000" x="520" y="747" width="521" height="407" />
+	<SubTexture name="Cheddar-left0001" x="1041" y="747" width="521" height="407" />
+	<SubTexture name="Cheddar-left0002" x="0" y="1164" width="521" height="407" />
+	<SubTexture name="Cheddar-left0003" x="521" y="1164" width="521" height="407" />
+	<SubTexture name="Cheddar-left0004" x="1042" y="1164" width="521" height="407" />
+	<SubTexture name="Cheddar-left0005" x="0" y="1572" width="521" height="407" />
+	<SubTexture name="Cheddar-left0006" x="521" y="1572" width="521" height="407" />
+	<SubTexture name="Cheddar-left0007" x="1042" y="1572" width="521" height="407" />
+	<SubTexture name="Cheddar-left0008" x="0" y="1979" width="521" height="407" />
+	<SubTexture name="Cheddar-left0009" x="0" y="1979" width="521" height="407" />
+	<SubTexture name="Cheddar-right0000" x="521" y="1979" width="680" height="389" />
+	<SubTexture name="Cheddar-right0001" x="521" y="1979" width="680" height="389" />
+	<SubTexture name="Cheddar-right0002" x="1201" y="1979" width="680" height="389" />
+	<SubTexture name="Cheddar-right0003" x="1201" y="1979" width="680" height="389" />
+	<SubTexture name="Cheddar-right0004" x="0" y="2387" width="680" height="389" />
+	<SubTexture name="Cheddar-right0005" x="0" y="2387" width="680" height="389" />
+	<SubTexture name="Cheddar-right0006" x="0" y="2387" width="680" height="389" />
+	<SubTexture name="Cheddar-right0007" x="0" y="2387" width="680" height="389" />
+	<SubTexture name="Cheddar-right0008" x="0" y="2387" width="680" height="389" />
+	<SubTexture name="Cheddar-right0009" x="0" y="2387" width="680" height="389" />
+	<SubTexture name="Cheddar-up0000" x="680" y="2387" width="521" height="462" />
+	<SubTexture name="Cheddar-up0001" x="680" y="2387" width="521" height="462" />
+	<SubTexture name="Cheddar-up0002" x="1201" y="2387" width="521" height="462" />
+	<SubTexture name="Cheddar-up0003" x="1201" y="2387" width="521" height="462" />
+	<SubTexture name="Cheddar-up0004" x="0" y="2849" width="521" height="462" />
+	<SubTexture name="Cheddar-up0005" x="0" y="2849" width="521" height="462" />
+	<SubTexture name="Cheddar-up0006" x="0" y="2849" width="521" height="462" />
+	<SubTexture name="Cheddar-up0007" x="0" y="2849" width="521" height="462" />
+	<SubTexture name="Cheddar-up0008" x="0" y="2849" width="521" height="462" />
+	<SubTexture name="Cheddar-up0009" x="0" y="2849" width="521" height="462" />
+</TextureAtlas>
