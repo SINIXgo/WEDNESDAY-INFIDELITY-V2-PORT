@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tngomiedo.png">
+<SubTexture name="temblar 0000" x="0" y="0" width="627" height="734" frameX="-19" frameY="0" frameWidth="646" frameHeight="734" />
+<SubTexture name="temblar 0001" x="627" y="0" width="625" height="733" frameX="-12" frameY="-1" frameWidth="646" frameHeight="734" />
+<SubTexture name="temblar 0002" x="0" y="734" width="627" height="721" frameX="-3" frameY="-13" frameWidth="646" frameHeight="734" />
+<SubTexture name="temblar 0003" x="627" y="734" width="625" height="722" frameX="0" frameY="-12" frameWidth="646" frameHeight="734" />
+</TextureAtlas>

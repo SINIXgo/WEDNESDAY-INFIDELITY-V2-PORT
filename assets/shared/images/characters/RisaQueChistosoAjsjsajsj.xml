@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smiler.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laugh instancia 10000" x="0" y="0" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10001" x="0" y="0" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10002" x="669" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10003" x="669" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10004" x="1348" y="0" width="682" height="771" frameX="0" frameY="-30" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10005" x="2030" y="0" width="677" height="766" frameX="-2" frameY="-35" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10006" x="2707" y="0" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10007" x="2707" y="0" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10008" x="3376" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10009" x="3376" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10010" x="1348" y="0" width="682" height="771" frameX="0" frameY="-30" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10011" x="0" y="791" width="677" height="766" frameX="-2" frameY="-35" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10012" x="677" y="791" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10013" x="1346" y="791" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10014" x="2015" y="791" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10015" x="2015" y="791" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10016" x="2694" y="791" width="682" height="771" frameX="0" frameY="-30" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10017" x="3376" y="791" width="677" height="766" frameX="-2" frameY="-35" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10018" x="0" y="1582" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10019" x="0" y="1582" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10020" x="669" y="1582" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10021" x="1348" y="1582" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10022" x="1348" y="0" width="682" height="771" frameX="0" frameY="-30" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10023" x="2027" y="1582" width="677" height="766" frameX="-2" frameY="-35" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10024" x="2704" y="1582" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10025" x="2704" y="1582" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10026" x="669" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10027" x="669" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10028" x="1348" y="0" width="682" height="771" frameX="0" frameY="-30" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10029" x="3373" y="1582" width="677" height="766" frameX="-2" frameY="-35" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10030" x="2707" y="0" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10031" x="2707" y="0" width="669" height="784" frameX="-9" frameY="-18" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10032" x="3376" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10033" x="3376" y="0" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10034" x="0" y="2373" width="680" height="802" frameX="-6" frameY="0" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10035" x="0" y="2373" width="680" height="802" frameX="-6" frameY="0" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10036" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10037" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10038" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10039" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10040" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10041" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10042" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10043" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+	<SubTexture name="laugh instancia 10044" x="680" y="2373" width="679" height="791" frameX="-7" frameY="-11" frameWidth="686" frameHeight="802"/>
+</TextureAtlas>

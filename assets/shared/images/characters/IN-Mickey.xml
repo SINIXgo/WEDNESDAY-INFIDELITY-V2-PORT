@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="inferno mickey.png">
+<SubTexture name="MIKI DOWN instancia 0000" x="583" y="3050" width="579" height="419" frameX="-2" frameY="-119" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0001" x="0" y="3050" width="583" height="420" frameX="0" frameY="-122" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0002" x="1159" y="2609" width="565" height="433" frameX="-9" frameY="-120" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0003" x="592" y="2609" width="567" height="436" frameX="-8" frameY="-121" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0004" x="3470" y="0" width="566" height="429" frameX="-9" frameY="-119" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0005" x="2292" y="2609" width="568" height="431" frameX="-8" frameY="-122" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0006" x="2860" y="2609" width="566" height="430" frameX="-9" frameY="-117" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0007" x="3470" y="858" width="566" height="428" frameX="-9" frameY="-120" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI DOWN instancia 0008" x="1724" y="2609" width="568" height="432" frameX="-8" frameY="-121" frameWidth="583" frameHeight="557" />
+<SubTexture name="MIKI IDLE instancia 0000" x="3470" y="2142" width="546" height="427" frameX="-40" frameY="-18" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0001" x="3470" y="1286" width="551" height="428" frameX="-37" frameY="-17" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0002" x="3470" y="1714" width="549" height="428" frameX="-38" frameY="-17" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0003" x="3470" y="429" width="554" height="429" frameX="-35" frameY="-16" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0004" x="2880" y="882" width="586" height="440" frameX="-5" frameY="-7" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0005" x="2880" y="0" width="590" height="441" frameX="-3" frameY="-10" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0006" x="2880" y="1322" width="588" height="440" frameX="-2" frameY="-5" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0007" x="0" y="2609" width="592" height="441" frameX="0" frameY="-4" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0008" x="2048" y="2115" width="586" height="442" frameX="-6" frameY="-3" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0009" x="2880" y="1762" width="590" height="440" frameX="-4" frameY="-5" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0010" x="877" y="2115" width="585" height="443" frameX="-7" frameY="-2" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0011" x="1462" y="2115" width="586" height="443" frameX="-6" frameY="-2" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI IDLE instancia 0012" x="2880" y="441" width="590" height="441" frameX="-4" frameY="-4" frameWidth="594" frameHeight="451" />
+<SubTexture name="MIKI LEFT instancia 0000" x="1214" y="536" width="590" height="503" frameX="0" frameY="-68" frameWidth="603" frameHeight="576" />
+<SubTexture name="MIKI LEFT instancia 0001" x="1827" y="1036" width="592" height="506" frameX="-1" frameY="-70" frameWidth="603" frameHeight="576" />
+<SubTexture name="MIKI LEFT instancia 0002" x="430" y="1612" width="584" height="501" frameX="-13" frameY="-68" frameWidth="603" frameHeight="576" />
+<SubTexture name="MIKI LEFT instancia 0003" x="618" y="541" width="587" height="503" frameX="-14" frameY="-70" frameWidth="603" frameHeight="576" />
+<SubTexture name="MIKI LEFT instancia 0004" x="1014" y="1612" width="584" height="500" frameX="-16" frameY="-69" frameWidth="603" frameHeight="576" />
+<SubTexture name="MIKI LEFT instancia 0005" x="1239" y="1078" width="586" height="503" frameX="-17" frameY="-71" frameWidth="603" frameHeight="576" />
+<SubTexture name="MIKI LEFT instancia 0006" x="1598" y="1612" width="585" height="499" frameX="-15" frameY="-69" frameWidth="603" frameHeight="576" />
+<SubTexture name="MIKI RIGHT instancia 0000" x="0" y="1612" width="430" height="503" frameX="-15" frameY="-5" frameWidth="452" frameHeight="513" />
+<SubTexture name="MIKI RIGHT instancia 0001" x="1827" y="528" width="430" height="508" frameX="-14" frameY="-5" frameWidth="452" frameHeight="513" />
+<SubTexture name="MIKI RIGHT instancia 0002" x="2445" y="0" width="435" height="494" frameX="-15" frameY="-7" frameWidth="452" frameHeight="513" />
+<SubTexture name="MIKI RIGHT instancia 0003" x="0" y="2115" width="438" height="494" frameX="-14" frameY="-8" frameWidth="452" frameHeight="513" />
+<SubTexture name="MIKI RIGHT instancia 0004" x="438" y="2115" width="439" height="489" frameX="-13" frameY="-8" frameWidth="452" frameHeight="513" />
+<SubTexture name="Miki UP instancia 0000" x="608" y="0" width="606" height="540" frameX="-13" frameY="-1" frameWidth="621" frameHeight="541" />
+<SubTexture name="Miki UP instancia 0001" x="0" y="0" width="608" height="541" frameX="-13" frameY="0" frameWidth="621" frameHeight="541" />
+<SubTexture name="Miki UP instancia 0002" x="1214" y="0" width="613" height="536" frameX="-4" frameY="-5" frameWidth="621" frameHeight="541" />
+<SubTexture name="Miki UP instancia 0003" x="0" y="541" width="618" height="537" frameX="-2" frameY="-4" frameWidth="621" frameHeight="541" />
+<SubTexture name="Miki UP instancia 0004" x="621" y="1078" width="618" height="533" frameX="-1" frameY="-7" frameWidth="621" frameHeight="541" />
+<SubTexture name="Miki UP instancia 0005" x="0" y="1078" width="621" height="534" frameX="0" frameY="-6" frameWidth="621" frameHeight="541" />
+<SubTexture name="Miki UP instancia 0006" x="1827" y="0" width="618" height="528" frameX="-1" frameY="-12" frameWidth="621" frameHeight="541" />
+</TextureAtlas>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RECUP_Suicide Mouse.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smile mouse down instancia 10000" x="0" y="0" width="468" height="496" frameX="0" frameY="-8" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10001" x="468" y="0" width="460" height="488" frameX="-4" frameY="-12" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10002" x="928" y="0" width="473" height="487" frameX="-5" frameY="-16" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10003" x="1401" y="0" width="471" height="487" frameX="-13" frameY="-16" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10004" x="1872" y="0" width="524" height="494" frameX="-2" frameY="-7" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10005" x="2396" y="0" width="512" height="494" frameX="-8" frameY="-7" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10006" x="2908" y="0" width="508" height="501" frameX="-10" frameY="0" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10007" x="3416" y="0" width="514" height="487" frameX="-7" frameY="-7" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10008" x="0" y="501" width="522" height="487" frameX="-3" frameY="-7" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse down instancia 10009" x="522" y="501" width="508" height="501" frameX="-10" frameY="0" frameWidth="526" frameHeight="504"/>
+	<SubTexture name="smile mouse idle instancia 10000" x="1030" y="501" width="465" height="590" frameX="-15" frameY="-5" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse idle instancia 10001" x="1495" y="501" width="462" height="587" frameX="-21" frameY="-14" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse idle instancia 10002" x="1957" y="501" width="453" height="576" frameX="-21" frameY="-19" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse idle instancia 10003" x="2410" y="501" width="447" height="587" frameX="-28" frameY="-8" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse idle instancia 10004" x="2857" y="501" width="448" height="600" frameX="-28" frameY="0" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse idle instancia 10005" x="3305" y="501" width="467" height="579" frameX="-14" frameY="-16" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse idle instancia 10006" x="0" y="1101" width="466" height="576" frameX="-9" frameY="-19" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse idle instancia 10007" x="466" y="1101" width="477" height="587" frameX="0" frameY="-8" frameWidth="483" frameHeight="601"/>
+	<SubTexture name="smile mouse left instancia 10000" x="943" y="1101" width="475" height="647" frameX="-37" frameY="-11" frameWidth="521" frameHeight="664"/>
+	<SubTexture name="smile mouse left instancia 10001" x="1418" y="1101" width="493" height="647" frameX="-28" frameY="-11" frameWidth="521" frameHeight="664"/>
+	<SubTexture name="smile mouse left instancia 10002" x="1911" y="1101" width="499" height="642" frameX="-11" frameY="-16" frameWidth="521" frameHeight="664"/>
+	<SubTexture name="smile mouse left instancia 10003" x="2410" y="1101" width="481" height="642" frameX="-30" frameY="-16" frameWidth="521" frameHeight="664"/>
+	<SubTexture name="smile mouse left instancia 10004" x="2891" y="1101" width="501" height="648" frameX="-2" frameY="-10" frameWidth="521" frameHeight="664"/>
+	<SubTexture name="smile mouse left instancia 10005" x="3392" y="1101" width="502" height="661" frameX="-3" frameY="-3" frameWidth="521" frameHeight="664"/>
+	<SubTexture name="smile mouse left instancia 10006" x="0" y="1762" width="502" height="656" frameX="0" frameY="0" frameWidth="521" frameHeight="664"/>
+	<SubTexture name="smile mouse rigth instancia 10000" x="502" y="1762" width="523" height="635" frameX="-4" frameY="-9" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse rigth instancia 10001" x="1025" y="1762" width="515" height="635" frameX="-8" frameY="-9" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse rigth instancia 10002" x="1540" y="1762" width="534" height="644" frameX="-1" frameY="0" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse rigth instancia 10003" x="2074" y="1762" width="522" height="644" frameX="-7" frameY="0" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse rigth instancia 10004" x="2596" y="1762" width="517" height="644" frameX="-7" frameY="0" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse rigth instancia 10005" x="3113" y="1762" width="511" height="644" frameX="-11" frameY="0" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse rigth instancia 10006" x="0" y="2418" width="525" height="644" frameX="-5" frameY="0" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse rigth instancia 10007" x="525" y="2418" width="531" height="644" frameX="0" frameY="0" frameWidth="535" frameHeight="644"/>
+	<SubTexture name="smile mouse up instancia 10000" x="1056" y="2418" width="475" height="582" frameX="-12" frameY="-11" frameWidth="499" frameHeight="594"/>
+	<SubTexture name="smile mouse up instancia 10001" x="1531" y="2418" width="487" height="582" frameX="-6" frameY="-11" frameWidth="499" frameHeight="594"/>
+	<SubTexture name="smile mouse up instancia 10002" x="2018" y="2418" width="483" height="593" frameX="-8" frameY="0" frameWidth="499" frameHeight="594"/>
+	<SubTexture name="smile mouse up instancia 10003" x="2501" y="2418" width="487" height="581" frameX="-6" frameY="-13" frameWidth="499" frameHeight="594"/>
+	<SubTexture name="smile mouse up instancia 10004" x="2988" y="2418" width="489" height="580" frameX="-5" frameY="-14" frameWidth="499" frameHeight="594"/>
+	<SubTexture name="smile mouse up instancia 10005" x="3477" y="2418" width="499" height="580" frameX="0" frameY="-14" frameWidth="499" frameHeight="594"/>
+	<SubTexture name="smile mouse up instancia 10006" x="0" y="3062" width="483" height="582" frameX="-8" frameY="-12" frameWidth="499" frameHeight="594"/>
+	<SubTexture name="smile mouse up instancia 10007" x="483" y="3062" width="479" height="582" frameX="-10" frameY="-12" frameWidth="499" frameHeight="594"/>
+</TextureAtlas>
