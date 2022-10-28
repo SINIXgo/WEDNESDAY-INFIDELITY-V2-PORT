@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fiddles-test.png">
+<SubTexture name="idle-fiddles0000" x="1640" y="0" width="565" height="772" frameX="0" frameY="-17" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0001" x="1640" y="0" width="565" height="772" frameX="0" frameY="-17" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0002" x="546" y="789" width="555" height="781" frameX="-6" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0003" x="546" y="789" width="555" height="781" frameX="-6" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0004" x="0" y="0" width="548" height="789" frameX="-9" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0005" x="0" y="0" width="548" height="789" frameX="-9" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0006" x="548" y="0" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0007" x="548" y="0" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0008" x="1094" y="0" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0009" x="1094" y="0" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0010" x="0" y="789" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0011" x="0" y="789" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0012" x="0" y="789" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0013" x="0" y="789" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+<SubTexture name="idle-fiddles0014" x="0" y="789" width="546" height="789" frameX="-11" frameY="-8" frameWidth="565" frameHeight="789" />
+</TextureAtlas>
