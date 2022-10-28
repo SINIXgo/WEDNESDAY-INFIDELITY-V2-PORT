@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DSIDES.png">
+	
+	
+	<SubTexture name="OSWALD DIALOGUE INTRO0000" x="1783" y="686" width="406" height="336" frameX="-29" frameY="-58" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0001" x="1783" y="686" width="406" height="336" frameX="-29" frameY="-58" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0002" x="1157" y="1698" width="400" height="331" frameX="-42" frameY="-64" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0003" x="1157" y="1698" width="400" height="331" frameX="-42" frameY="-64" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0004" x="1486" y="2065" width="361" height="364" frameX="-72" frameY="-31" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0005" x="3442" y="2424" width="338" height="344" frameX="-103" frameY="-51" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0006" x="361" y="2103" width="377" height="344" frameX="-103" frameY="-51" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0007" x="2581" y="751" width="387" height="352" frameX="-101" frameY="-43" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0008" x="2581" y="751" width="387" height="352" frameX="-101" frameY="-43" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0009" x="2339" y="298" width="396" height="353" frameX="-102" frameY="-42" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0010" x="2339" y="298" width="396" height="353" frameX="-102" frameY="-42" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0011" x="1127" y="723" width="396" height="344" frameX="-102" frameY="-50" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0012" x="410" y="731" width="396" height="344" frameX="-102" frameY="-50" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0013" x="2968" y="1085" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0014" x="2341" y="1103" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0015" x="2341" y="1103" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0016" x="0" y="1317" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0017" x="1215" y="1355" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0018" x="1215" y="1355" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0019" x="1611" y="1355" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0020" x="1611" y="1355" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0021" x="3364" y="1383" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0022" x="3364" y="1383" width="396" height="342" frameX="-102" frameY="-52" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0023" x="0" y="1659" width="405" height="328" frameX="-95" frameY="-66" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0024" x="0" y="1659" width="405" height="328" frameX="-95" frameY="-66" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0025" x="0" y="649" width="410" height="334" frameX="-89" frameY="-60" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0026" x="0" y="649" width="410" height="334" frameX="-89" frameY="-60" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0027" x="2968" y="752" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0028" x="0" y="984" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0029" x="0" y="984" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0030" x="1523" y="1022" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0031" x="1523" y="1022" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0032" x="1523" y="1022" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0033" x="1523" y="1022" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0034" x="1523" y="1022" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0035" x="1932" y="1022" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0036" x="3377" y="1050" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0037" x="3377" y="1050" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0038" x="806" y="1068" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0039" x="806" y="1068" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0040" x="806" y="1068" width="409" height="333" frameX="-89" frameY="-62" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0041" x="2212" y="651" width="369" height="370" frameX="-86" frameY="-24" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0042" x="2212" y="651" width="369" height="370" frameX="-86" frameY="-24" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0043" x="1123" y="2394" width="338" height="351" frameX="-87" frameY="-44" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0044" x="1123" y="2394" width="338" height="351" frameX="-87" frameY="-44" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0045" x="1127" y="352" width="272" height="363" frameX="-93" frameY="-32" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0046" x="1127" y="352" width="272" height="363" frameX="-93" frameY="-32" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0047" x="409" y="1076" width="345" height="394" frameX="-11" frameY="0" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0048" x="413" y="314" width="351" height="394" frameX="-11" frameY="0" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0049" x="1851" y="299" width="361" height="386" frameX="-5" frameY="-8" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0050" x="1851" y="299" width="361" height="386" frameX="-5" frameY="-8" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0051" x="3596" y="334" width="363" height="379" frameX="-3" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0052" x="3596" y="334" width="363" height="379" frameX="-3" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0053" x="1421" y="344" width="362" height="379" frameX="-7" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0054" x="1421" y="344" width="362" height="379" frameX="-7" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0055" x="765" y="352" width="362" height="379" frameX="-7" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0056" x="765" y="352" width="362" height="379" frameX="-7" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0057" x="2735" y="372" width="362" height="379" frameX="-7" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0058" x="3097" y="373" width="362" height="379" frameX="-7" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0059" x="3097" y="373" width="362" height="379" frameX="-7" frameY="-16" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0060" x="2007" y="1445" width="351" height="380" frameX="-12" frameY="-14" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0061" x="2007" y="1445" width="351" height="380" frameX="-12" frameY="-14" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0062" x="3078" y="2092" width="364" height="360" frameX="0" frameY="-35" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0063" x="0" y="1988" width="361" height="365" frameX="-3" frameY="-30" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0064" x="1125" y="2029" width="361" height="365" frameX="-3" frameY="-30" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0065" x="2358" y="1445" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0066" x="1557" y="1698" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0067" x="3146" y="1725" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0068" x="3506" y="1725" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0069" x="405" y="1736" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0070" x="765" y="1736" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0071" x="2718" y="1755" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0072" x="2358" y="1812" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0073" x="2358" y="1812" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0074" x="1917" y="1826" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0075" x="1917" y="1826" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0076" x="1917" y="1826" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0077" x="1917" y="1826" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0078" x="1917" y="1826" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD DIALOGUE INTRO0079" x="1917" y="1826" width="360" height="367" frameX="-4" frameY="-28" frameWidth="500" frameHeight="394" />
+	<SubTexture name="OSWALD IDLE0000" x="993" y="0" width="427" height="352" frameX="0" frameY="0" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0001" x="993" y="0" width="427" height="352" frameX="0" frameY="0" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0002" x="1421" y="0" width="430" height="344" frameX="-1" frameY="-8" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0003" x="1421" y="0" width="430" height="344" frameX="-1" frameY="-8" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0004" x="3596" y="0" width="423" height="334" frameX="-9" frameY="-18" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0005" x="3596" y="0" width="423" height="334" frameX="-9" frameY="-18" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0006" x="738" y="2103" width="384" height="333" frameX="-16" frameY="-22" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0007" x="738" y="2103" width="384" height="333" frameX="-16" frameY="-22" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0008" x="3442" y="2092" width="394" height="332" frameX="-17" frameY="-20" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0009" x="3442" y="2092" width="394" height="332" frameX="-17" frameY="-20" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0010" x="754" y="1401" width="403" height="335" frameX="-15" frameY="-17" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0011" x="754" y="1401" width="403" height="335" frameX="-15" frameY="-17" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0012" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0013" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0014" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0015" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0016" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0017" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0018" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD IDLE0019" x="3459" y="713" width="405" height="336" frameX="-14" frameY="-16" frameWidth="432" frameHeight="355" />
+	<SubTexture name="OSWALD RIGHT0000" x="0" y="0" width="500" height="312" frameX="-3" frameY="-2" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0001" x="0" y="0" width="500" height="312" frameX="-3" frameY="-2" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0002" x="500" y="0" width="493" height="314" frameX="-1" frameY="0" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0003" x="500" y="0" width="493" height="314" frameX="-1" frameY="0" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0004" x="1851" y="0" width="488" height="299" frameX="0" frameY="-15" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0005" x="1851" y="0" width="488" height="299" frameX="0" frameY="-15" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0006" x="2339" y="0" width="488" height="298" frameX="0" frameY="-16" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0007" x="2339" y="0" width="488" height="298" frameX="0" frameY="-16" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0008" x="2339" y="0" width="488" height="298" frameX="0" frameY="-16" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0009" x="2339" y="0" width="488" height="298" frameX="0" frameY="-16" frameWidth="503" frameHeight="314" />
+	<SubTexture name="OSWALD RIGHT0010" x="2339" y="0" width="488" height="298" frameX="0" frameY="-16" frameWidth="503" frameHeight="314" />
+	<SubTexture name="Oswald Down0000" x="2718" y="2122" width="353" height="360" frameX="0" frameY="0" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0001" x="2718" y="2122" width="353" height="360" frameX="0" frameY="0" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0002" x="2277" y="2179" width="351" height="346" frameX="-3" frameY="-14" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0003" x="2277" y="2179" width="351" height="346" frameX="-3" frameY="-14" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0004" x="0" y="2353" width="351" height="340" frameX="-3" frameY="-20" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0005" x="0" y="2353" width="351" height="340" frameX="-3" frameY="-20" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0006" x="1847" y="2193" width="351" height="342" frameX="-3" frameY="-18" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0007" x="1847" y="2193" width="351" height="342" frameX="-3" frameY="-18" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0008" x="1847" y="2193" width="351" height="342" frameX="-3" frameY="-18" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Down0009" x="1847" y="2193" width="351" height="342" frameX="-3" frameY="-18" frameWidth="354" frameHeight="360" />
+	<SubTexture name="Oswald Left0000" x="2828" y="0" width="387" height="372" frameX="-25" frameY="-2" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0001" x="2828" y="0" width="387" height="372" frameX="-25" frameY="-2" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0002" x="3215" y="0" width="381" height="373" frameX="-30" frameY="0" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0003" x="3215" y="0" width="381" height="373" frameX="-30" frameY="0" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0004" x="0" y="312" width="413" height="337" frameX="0" frameY="-37" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0005" x="0" y="312" width="413" height="337" frameX="0" frameY="-37" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0006" x="2737" y="1428" width="409" height="327" frameX="-6" frameY="-46" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0007" x="2737" y="1428" width="409" height="327" frameX="-6" frameY="-46" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0008" x="2737" y="1428" width="409" height="327" frameX="-6" frameY="-46" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Left0009" x="2737" y="1428" width="409" height="327" frameX="-6" frameY="-46" frameWidth="415" frameHeight="373" />
+	<SubTexture name="Oswald Up0000" x="1461" y="2429" width="233" height="366" frameX="-6" frameY="0" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0001" x="1461" y="2429" width="233" height="366" frameX="-6" frameY="0" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0002" x="3786" y="1050" width="243" height="357" frameX="0" frameY="-9" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0003" x="3786" y="1050" width="243" height="357" frameX="0" frameY="-9" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0004" x="3836" y="2092" width="243" height="355" frameX="0" frameY="-11" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0005" x="3836" y="2092" width="243" height="355" frameX="0" frameY="-11" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0006" x="3836" y="2092" width="243" height="355" frameX="0" frameY="-11" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0007" x="3836" y="2092" width="243" height="355" frameX="0" frameY="-11" frameWidth="243" frameHeight="366" />
+	<SubTexture name="Oswald Up0008" x="3836" y="2092" width="243" height="355" frameX="0" frameY="-11" frameWidth="243" frameHeight="366" />
+</TextureAtlas>

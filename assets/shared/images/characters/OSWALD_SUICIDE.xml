@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OSWALD_SUICIDE.png">
+	
+	
+	<SubTexture name="SUICIDE OSWALD DOWN0000" x="416" y="680" width="414" height="357" frameX="-1" frameY="0" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0001" x="416" y="680" width="414" height="357" frameX="-1" frameY="0" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0002" x="0" y="351" width="416" height="357" frameX="-1" frameY="0" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0003" x="0" y="351" width="416" height="357" frameX="-1" frameY="0" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0004" x="1314" y="333" width="417" height="356" frameX="0" frameY="-1" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0005" x="1314" y="333" width="417" height="356" frameX="0" frameY="-1" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0006" x="0" y="1669" width="428" height="306" frameX="-4" frameY="-51" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0007" x="0" y="1669" width="428" height="306" frameX="-4" frameY="-51" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD DOWN0008" x="0" y="708" width="407" height="305" frameX="-4" frameY="-52" frameWidth="432" frameHeight="357" />
+	<SubTexture name="SUICIDE OSWALD IDLE0000" x="1314" y="0" width="460" height="333" frameX="0" frameY="-3" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0001" x="1314" y="0" width="460" height="333" frameX="0" frameY="-3" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0002" x="451" y="344" width="453" height="336" frameX="-6" frameY="0" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0003" x="451" y="344" width="453" height="336" frameX="-6" frameY="0" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0004" x="1241" y="689" width="452" height="321" frameX="-5" frameY="-15" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0005" x="1241" y="689" width="452" height="321" frameX="-5" frameY="-15" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0006" x="450" y="1330" width="448" height="317" frameX="-4" frameY="-22" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0007" x="450" y="1330" width="448" height="317" frameX="-4" frameY="-22" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0008" x="0" y="1037" width="450" height="319" frameX="-4" frameY="-17" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0009" x="0" y="1037" width="450" height="319" frameX="-4" frameY="-17" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0010" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0011" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0012" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0013" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0014" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0015" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0016" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0017" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0018" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD IDLE0019" x="830" y="1010" width="451" height="320" frameX="-4" frameY="-16" frameWidth="460" frameHeight="338" />
+	<SubTexture name="SUICIDE OSWALD LEFT0000" x="873" y="1649" width="320" height="372" frameX="-42" frameY="-8" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0001" x="873" y="1649" width="320" height="372" frameX="-42" frameY="-8" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0002" x="1709" y="1485" width="318" height="377" frameX="-50" frameY="-3" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0003" x="1709" y="1485" width="318" height="377" frameX="-50" frameY="-3" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0004" x="1721" y="1105" width="321" height="380" frameX="-49" frameY="0" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0005" x="1721" y="1105" width="321" height="380" frameX="-49" frameY="0" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0006" x="907" y="0" width="407" height="381" frameX="0" frameY="0" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0007" x="907" y="0" width="407" height="381" frameX="0" frameY="0" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD LEFT0008" x="1333" y="1339" width="376" height="329" frameX="-72" frameY="-47" frameWidth="448" frameHeight="381" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0000" x="0" y="1356" width="441" height="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0001" x="0" y="1356" width="441" height="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0002" x="898" y="1339" width="434" height="310" frameX="-1" frameY="-3" frameWidth="441" frameHeight="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0003" x="898" y="1339" width="434" height="310" frameX="-1" frameY="-3" frameWidth="441" frameHeight="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0004" x="441" y="1647" width="432" height="309" frameX="0" frameY="-4" frameWidth="441" frameHeight="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0005" x="441" y="1647" width="432" height="309" frameX="0" frameY="-4" frameWidth="441" frameHeight="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0006" x="449" y="2278" width="385" height="281" frameX="-3" frameY="-32" frameWidth="441" frameHeight="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0007" x="449" y="2278" width="385" height="281" frameX="-3" frameY="-32" frameWidth="441" frameHeight="313" />
+	<SubTexture name="SUICIDE OSWALD RIGHT0008" x="450" y="1037" width="376" height="282" frameX="-1" frameY="-31" frameWidth="441" frameHeight="313" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0000" x="0" y="0" width="451" height="351" frameX="-8" frameY="0" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0001" x="451" y="0" width="456" height="344" frameX="0" frameY="-7" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0002" x="1282" y="1010" width="439" height="328" frameX="-11" frameY="-23" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0003" x="0" y="2234" width="449" height="256" frameX="-16" frameY="-96" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0004" x="1194" y="1927" width="451" height="258" frameX="-16" frameY="-94" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0005" x="449" y="2021" width="448" height="257" frameX="-16" frameY="-95" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0006" x="0" y="1976" width="449" height="258" frameX="-16" frameY="-94" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0007" x="1194" y="1668" width="451" height="258" frameX="-16" frameY="-93" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0008" x="449" y="2021" width="448" height="257" frameX="-16" frameY="-95" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0009" x="0" y="1976" width="449" height="258" frameX="-16" frameY="-94" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0010" x="1194" y="1668" width="451" height="258" frameX="-16" frameY="-93" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0011" x="449" y="2021" width="448" height="257" frameX="-16" frameY="-95" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0012" x="0" y="1976" width="449" height="258" frameX="-16" frameY="-94" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0013" x="1194" y="1668" width="451" height="258" frameX="-16" frameY="-93" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0014" x="449" y="2021" width="448" height="257" frameX="-16" frameY="-95" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD SCREAM0015" x="0" y="1976" width="449" height="258" frameX="-16" frameY="-94" frameWidth="467" frameHeight="351" />
+	<SubTexture name="SUICIDE OSWALD UP0000" x="1645" y="1863" width="328" height="350" frameX="-12" frameY="-84" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0001" x="1645" y="1863" width="328" height="350" frameX="-12" frameY="-84" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0002" x="1216" y="2185" width="318" height="353" frameX="-8" frameY="-81" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0003" x="1216" y="2185" width="318" height="353" frameX="-8" frameY="-81" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0004" x="898" y="2185" width="318" height="356" frameX="0" frameY="-78" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0005" x="898" y="2185" width="318" height="356" frameX="0" frameY="-78" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0006" x="1721" y="689" width="325" height="416" frameX="-28" frameY="-18" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0007" x="1721" y="689" width="325" height="416" frameX="-28" frameY="-18" frameWidth="361" frameHeight="434" />
+	<SubTexture name="SUICIDE OSWALD UP0008" x="905" y="381" width="336" height="434" frameX="-25" frameY="0" frameWidth="361" frameHeight="434" />
+</TextureAtlas>
