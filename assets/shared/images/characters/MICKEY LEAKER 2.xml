@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VS LEAKERS.png">
+	
+	
+	<SubTexture name="BOOK MIKI DOWN0000" x="1480" y="2646" width="216" height="294" frameX="0" frameY="-7" frameWidth="217" frameHeight="300" />
+	<SubTexture name="BOOK MIKI DOWN0001" x="1480" y="2646" width="216" height="294" frameX="0" frameY="-7" frameWidth="217" frameHeight="300" />
+	<SubTexture name="BOOK MIKI DOWN0002" x="1952" y="335" width="217" height="299" frameX="-1" frameY="-1" frameWidth="217" frameHeight="300" />
+	<SubTexture name="BOOK MIKI DOWN0003" x="1952" y="335" width="217" height="299" frameX="-1" frameY="-1" frameWidth="217" frameHeight="300" />
+	<SubTexture name="BOOK MIKI DOWN0004" x="261" y="659" width="217" height="300" frameX="-1" frameY="0" frameWidth="217" frameHeight="300" />
+	<SubTexture name="BOOK MIKI DOWN0005" x="261" y="659" width="217" height="300" frameX="-1" frameY="0" frameWidth="217" frameHeight="300" />
+	<SubTexture name="BOOK MIKI DOWN0006" x="261" y="659" width="217" height="300" frameX="-1" frameY="0" frameWidth="217" frameHeight="300" />
+	<SubTexture name="BOOK MIKI IDLE0000" x="0" y="1633" width="238" height="327" frameX="0" frameY="-2" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0001" x="251" y="973" width="249" height="327" frameX="0" frameY="-2" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0002" x="0" y="1308" width="255" height="325" frameX="-2" frameY="-4" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0003" x="0" y="324" width="262" height="325" frameX="-2" frameY="-4" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0004" x="0" y="0" width="263" height="324" frameX="-5" frameY="-5" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0005" x="0" y="649" width="261" height="324" frameX="-5" frameY="-5" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0006" x="2266" y="2274" width="189" height="324" frameX="-6" frameY="-5" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0007" x="2266" y="2274" width="189" height="324" frameX="-6" frameY="-5" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0008" x="2439" y="3567" width="188" height="327" frameX="-3" frameY="-2" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0009" x="2251" y="3568" width="188" height="328" frameX="-2" frameY="-1" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0010" x="2251" y="3568" width="188" height="328" frameX="-2" frameY="-1" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0011" x="2255" y="3239" width="188" height="328" frameX="-2" frameY="-1" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0012" x="2255" y="3239" width="188" height="328" frameX="-2" frameY="-1" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0013" x="2067" y="3239" width="188" height="328" frameX="-2" frameY="-1" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0014" x="2067" y="3239" width="188" height="328" frameX="-2" frameY="-1" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0015" x="2063" y="3613" width="188" height="329" frameX="-2" frameY="0" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI IDLE0016" x="2063" y="3613" width="188" height="329" frameX="-2" frameY="0" frameWidth="268" frameHeight="329" />
+	<SubTexture name="BOOK MIKI LEFT0000" x="498" y="0" width="229" height="322" frameX="0" frameY="0" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI LEFT0001" x="498" y="0" width="229" height="322" frameX="0" frameY="0" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI LEFT0002" x="449" y="2289" width="227" height="319" frameX="-5" frameY="-3" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI LEFT0003" x="449" y="2289" width="227" height="319" frameX="-5" frameY="-3" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI LEFT0004" x="452" y="1948" width="227" height="318" frameX="-6" frameY="-4" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI LEFT0005" x="452" y="1948" width="227" height="318" frameX="-6" frameY="-4" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI LEFT0006" x="452" y="1948" width="227" height="318" frameX="-6" frameY="-4" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI LEFT0007" x="452" y="1948" width="227" height="318" frameX="-6" frameY="-4" frameWidth="233" frameHeight="322" />
+	<SubTexture name="BOOK MIKI RIGHT0000" x="263" y="0" width="234" height="317" frameX="-1" frameY="0" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0001" x="263" y="0" width="234" height="317" frameX="-1" frameY="0" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0002" x="238" y="1633" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0003" x="238" y="1633" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0004" x="0" y="2960" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0005" x="0" y="2960" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0006" x="0" y="2960" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0007" x="0" y="2960" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0008" x="0" y="2960" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI RIGHT0009" x="0" y="2960" width="234" height="315" frameX="0" frameY="-2" frameWidth="235" frameHeight="317" />
+	<SubTexture name="BOOK MIKI UP0000" x="481" y="1300" width="213" height="337" />
+	<SubTexture name="BOOK MIKI UP0001" x="481" y="1300" width="213" height="337" />
+	<SubTexture name="BOOK MIKI UP0002" x="676" y="2266" width="213" height="332" frameX="0" frameY="-6" frameWidth="213" frameHeight="337" />
+	<SubTexture name="BOOK MIKI UP0003" x="676" y="2266" width="213" height="332" frameX="0" frameY="-6" frameWidth="213" frameHeight="337" />
+	<SubTexture name="BOOK MIKI UP0004" x="440" y="3595" width="213" height="331" frameX="0" frameY="-6" frameWidth="213" frameHeight="337" />
+	<SubTexture name="BOOK MIKI UP0005" x="440" y="3595" width="213" height="331" frameX="0" frameY="-6" frameWidth="213" frameHeight="337" />
+	<SubTexture name="BOOK MIKI UP0006" x="440" y="3595" width="213" height="331" frameX="0" frameY="-6" frameWidth="213" frameHeight="337" />
+	<SubTexture name="BOOK MIKI UP0007" x="440" y="3595" width="213" height="331" frameX="0" frameY="-6" frameWidth="213" frameHeight="337" />
+	<SubTexture name="BOOK NOOBS0000" x="943" y="0" width="217" height="320" frameX="-32" frameY="-24" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0001" x="1092" y="2290" width="217" height="320" frameX="-32" frameY="-24" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0002" x="1161" y="0" width="214" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0003" x="1161" y="0" width="214" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0004" x="1508" y="1654" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0005" x="1508" y="1654" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0006" x="1713" y="1308" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0007" x="1713" y="1308" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0008" x="1540" y="332" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0009" x="1540" y="332" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0010" x="1540" y="649" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0011" x="1540" y="649" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0012" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0013" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0014" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0015" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0016" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0017" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0018" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0019" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0020" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0021" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0022" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0023" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0024" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0025" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0026" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0027" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0028" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0029" x="1579" y="0" width="212" height="317" frameX="-32" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0030" x="2456" y="2310" width="203" height="286" frameX="-30" frameY="-58" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0031" x="2645" y="979" width="174" height="322" frameX="-30" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0032" x="2645" y="979" width="174" height="322" frameX="-30" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0033" x="2634" y="1959" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0034" x="2634" y="1959" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0035" x="2865" y="0" width="158" height="334" frameX="-39" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0036" x="2865" y="0" width="158" height="334" frameX="-39" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0037" x="2827" y="336" width="158" height="334" frameX="-39" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0038" x="2827" y="336" width="158" height="334" frameX="-39" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0039" x="2652" y="650" width="175" height="319" frameX="-30" frameY="-25" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0040" x="2652" y="650" width="175" height="319" frameX="-30" frameY="-25" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0041" x="2645" y="1301" width="174" height="322" frameX="-30" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0042" x="2645" y="1301" width="174" height="322" frameX="-30" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0043" x="2639" y="1626" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0044" x="2622" y="2926" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0045" x="2622" y="2926" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0046" x="2627" y="2596" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0047" x="2627" y="2596" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0048" x="2478" y="656" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0049" x="2478" y="656" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0050" x="2480" y="327" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0051" x="2480" y="327" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0052" x="2525" y="0" width="174" height="323" frameX="-30" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0053" x="2099" y="1324" width="187" height="327" frameX="-24" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0054" x="2099" y="1324" width="187" height="327" frameX="-24" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0055" x="1708" y="1971" width="193" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0056" x="1708" y="1971" width="193" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0057" x="1479" y="3623" width="201" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0058" x="1479" y="3623" width="201" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0059" x="2152" y="0" width="195" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0060" x="2152" y="0" width="195" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0061" x="1480" y="3288" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0062" x="1480" y="3288" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0063" x="1674" y="3288" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0064" x="1674" y="3288" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0065" x="1680" y="3617" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0066" x="1680" y="3617" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0067" x="1480" y="2317" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0068" x="1480" y="2317" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0069" x="1514" y="1971" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0070" x="1514" y="1971" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0071" x="1675" y="2300" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0072" x="1675" y="2300" width="194" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0073" x="0" y="2631" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0074" x="0" y="2631" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0075" x="223" y="2296" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0076" x="223" y="2296" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0077" x="226" y="1960" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0078" x="226" y="1960" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0079" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0080" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0081" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0082" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0083" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0084" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0085" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0086" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0087" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0088" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0089" x="255" y="1300" width="226" height="329" frameX="-24" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0090" x="226" y="2625" width="225" height="325" frameX="-22" frameY="-19" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0091" x="226" y="2625" width="225" height="325" frameX="-22" frameY="-19" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0092" x="2254" y="2609" width="194" height="317" frameX="-26" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0093" x="2254" y="2609" width="194" height="317" frameX="-26" frameY="-27" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0094" x="695" y="1320" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0095" x="695" y="1320" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0096" x="674" y="2931" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0097" x="674" y="2931" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0098" x="1869" y="3300" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0099" x="1869" y="3300" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0100" x="674" y="2931" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0101" x="674" y="2931" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0102" x="893" y="1647" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0103" x="893" y="1647" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0104" x="1869" y="2300" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0105" x="1869" y="2300" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0106" x="2056" y="2613" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0107" x="2056" y="2613" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0108" x="2068" y="2296" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0109" x="2068" y="2296" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0110" x="2091" y="1961" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0111" x="2091" y="1961" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0112" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0113" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0114" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0115" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0116" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0117" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0118" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0119" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0120" x="2058" y="2926" width="198" height="313" frameX="-25" frameY="-31" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0121" x="874" y="3276" width="189" height="303" frameX="-25" frameY="-41" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0122" x="2289" y="1654" width="178" height="328" frameX="-26" frameY="-16" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0123" x="2289" y="1654" width="178" height="328" frameX="-26" frameY="-16" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0124" x="2467" y="1299" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0125" x="2467" y="1299" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0126" x="2301" y="329" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0127" x="2301" y="329" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0128" x="2347" y="0" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0129" x="2347" y="0" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0130" x="2443" y="2926" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0131" x="2443" y="2926" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0132" x="2449" y="2598" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0133" x="2449" y="2598" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0134" x="2456" y="1982" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0135" x="2456" y="1982" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0136" x="2456" y="1982" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0137" x="2456" y="1982" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0138" x="2456" y="1982" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0139" x="2456" y="1982" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0140" x="2456" y="1982" width="178" height="327" frameX="-25" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0141" x="2119" y="635" width="182" height="333" frameX="-29" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0142" x="2468" y="1626" width="171" height="333" frameX="-29" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0143" x="2468" y="1626" width="171" height="333" frameX="-29" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0144" x="2699" y="0" width="166" height="336" frameX="-32" frameY="-8" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0145" x="2699" y="0" width="166" height="336" frameX="-32" frameY="-8" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0146" x="2627" y="3249" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0147" x="2627" y="3249" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0148" x="2627" y="3586" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0149" x="2627" y="3586" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0150" x="2790" y="3249" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0151" x="2790" y="3249" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0152" x="2790" y="3586" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0153" x="2801" y="2282" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0154" x="2801" y="2282" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0155" x="2801" y="2620" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0156" x="2801" y="2620" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0157" x="2813" y="1623" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0158" x="2813" y="1623" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0159" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0160" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0161" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0162" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0163" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0164" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0165" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0166" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0167" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0168" x="2819" y="970" width="163" height="337" frameX="-33" frameY="-7" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0169" x="2808" y="1961" width="171" height="320" frameX="-29" frameY="-24" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0170" x="2808" y="1961" width="171" height="320" frameX="-29" frameY="-24" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0171" x="1131" y="320" width="213" height="324" frameX="-33" frameY="-20" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0172" x="1131" y="320" width="213" height="324" frameX="-33" frameY="-20" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0173" x="1123" y="663" width="213" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0174" x="1123" y="663" width="213" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0175" x="653" y="3595" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0176" x="660" y="3253" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0177" x="660" y="3253" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0178" x="867" y="3580" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0179" x="867" y="3580" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0180" x="679" y="1637" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0181" x="679" y="1637" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0182" x="695" y="994" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0183" x="695" y="994" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0184" x="713" y="644" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0185" x="713" y="644" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0186" x="889" y="1964" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0187" x="889" y="1964" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0188" x="893" y="1320" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0189" x="893" y="1320" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0190" x="909" y="971" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0191" x="909" y="971" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0192" x="909" y="971" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0193" x="909" y="971" width="214" height="326" frameX="-32" frameY="-18" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0194" x="727" y="0" width="216" height="323" frameX="-31" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0195" x="727" y="0" width="216" height="323" frameX="-31" frameY="-21" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0196" x="671" y="2608" width="219" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0197" x="671" y="2608" width="219" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0198" x="505" y="322" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0199" x="505" y="322" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0200" x="0" y="3275" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0201" x="0" y="3275" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0202" x="0" y="3598" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0203" x="0" y="3598" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0204" x="220" y="3275" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0205" x="220" y="3275" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0206" x="234" y="2950" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0207" x="234" y="2950" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0208" x="451" y="2608" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0209" x="451" y="2608" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0210" x="220" y="3598" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0211" x="440" y="3272" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0212" x="440" y="3272" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0213" x="454" y="2931" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0214" x="454" y="2931" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0215" x="454" y="2931" width="220" height="322" frameX="-31" frameY="-22" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0216" x="725" y="323" width="201" height="315" frameX="-19" frameY="-29" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0217" x="1875" y="3613" width="188" height="329" frameX="-10" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0218" x="1875" y="3613" width="188" height="329" frameX="-10" frameY="-17" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0219" x="500" y="659" width="213" height="334" frameX="-4" frameY="-12" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0220" x="500" y="659" width="213" height="334" frameX="-4" frameY="-12" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0221" x="1280" y="3623" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0222" x="1280" y="3623" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0223" x="1720" y="967" width="200" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0224" x="1720" y="967" width="200" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0225" x="1753" y="317" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0226" x="1753" y="317" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0227" x="1920" y="653" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0228" x="1920" y="653" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0229" x="1952" y="0" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0230" x="1952" y="0" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0231" x="1081" y="3323" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0232" x="1081" y="3323" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0233" x="1279" y="2952" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0234" x="1279" y="2952" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0235" x="1081" y="3659" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0236" x="1081" y="3659" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0237" x="1280" y="3288" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0238" x="1280" y="3288" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0239" x="1478" y="2952" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0240" x="1478" y="2952" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0241" x="1081" y="3323" width="199" height="335" frameX="-4" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0242" x="927" y="323" width="204" height="340" frameX="-1" frameY="-5" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0243" x="927" y="323" width="204" height="340" frameX="-1" frameY="-5" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0244" x="1075" y="2981" width="203" height="342" frameX="0" frameY="-4" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0245" x="1075" y="2981" width="203" height="342" frameX="0" frameY="-4" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0246" x="1277" y="2610" width="203" height="342" frameX="0" frameY="-4" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0247" x="1277" y="2610" width="203" height="342" frameX="0" frameY="-4" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0248" x="1103" y="1647" width="203" height="342" frameX="0" frameY="-4" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0249" x="1103" y="1647" width="203" height="342" frameX="0" frameY="-4" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0250" x="1107" y="1297" width="203" height="342" frameX="0" frameY="-4" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0251" x="1307" y="1639" width="201" height="345" frameX="-20" frameY="-1" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0252" x="1307" y="1639" width="201" height="345" frameX="-20" frameY="-1" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0253" x="874" y="2931" width="201" height="345" frameX="-22" frameY="0" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0254" x="874" y="2931" width="201" height="345" frameX="-22" frameY="0" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0255" x="890" y="2290" width="201" height="345" frameX="-22" frameY="0" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0256" x="890" y="2290" width="201" height="345" frameX="-22" frameY="0" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0257" x="1075" y="2636" width="201" height="345" frameX="-22" frameY="0" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0258" x="1075" y="2636" width="201" height="345" frameX="-22" frameY="0" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0259" x="1075" y="2636" width="201" height="345" frameX="-22" frameY="0" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0260" x="1309" y="1984" width="204" height="333" frameX="-14" frameY="-13" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0261" x="1309" y="1984" width="204" height="333" frameX="-14" frameY="-13" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0262" x="1311" y="990" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0263" x="1311" y="990" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0264" x="1336" y="644" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0265" x="1336" y="644" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0266" x="1375" y="0" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0267" x="1375" y="0" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0268" x="1508" y="1322" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0269" x="1508" y="1322" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0270" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0271" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0272" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0273" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0274" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0275" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0276" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0277" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0278" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0279" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0280" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0281" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0282" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0283" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0284" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0285" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0286" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0287" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0288" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0289" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0290" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0291" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0292" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0293" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0294" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0295" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0296" x="1515" y="976" width="204" height="332" frameX="-13" frameY="-14" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0297" x="2286" y="1323" width="180" height="331" frameX="-17" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0298" x="2298" y="968" width="180" height="331" frameX="-17" frameY="-15" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0299" x="2114" y="988" width="183" height="334" frameX="-17" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0300" x="2114" y="988" width="183" height="334" frameX="-17" frameY="-11" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0301" x="0" y="2296" width="223" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0302" x="0" y="2296" width="223" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0303" x="0" y="1960" width="226" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0304" x="262" y="324" width="242" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0305" x="0" y="973" width="251" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0306" x="1721" y="1625" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0307" x="1721" y="1625" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0308" x="1678" y="2940" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0309" x="1678" y="2940" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0310" x="1867" y="2629" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0311" x="1867" y="2629" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0312" x="1869" y="2965" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0313" x="1869" y="2965" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0314" x="1902" y="1961" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0315" x="1902" y="1961" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0316" x="1910" y="1625" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0317" x="1910" y="1625" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0318" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0319" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0320" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0321" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0322" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0323" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0324" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0325" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0326" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0327" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0328" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0329" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+	<SubTexture name="BOOK NOOBS0330" x="1925" y="988" width="189" height="335" frameX="-17" frameY="-10" frameWidth="268" frameHeight="346" />
+</TextureAtlas>
