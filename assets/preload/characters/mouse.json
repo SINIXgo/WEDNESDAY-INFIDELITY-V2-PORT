@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mouse idle"
+		},
+		{
+			"offsets": [
+				15,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mouse Down"
+		},
+		{
+			"offsets": [
+				34,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mouse Left"
+		},
+		{
+			"offsets": [
+				33,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mouse Rigth"
+		},
+		{
+			"offsets": [
+				46,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mouse Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				67
+			],
+			"anim": "hey",
+			"fps": 36,
+			"name": "sad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WeekSuicide/Mouse",
+	"position": [
+		0,
+		65
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		89,
+		81
+	],
+	"camera_position": [
+		-100,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

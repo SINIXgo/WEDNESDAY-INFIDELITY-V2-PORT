@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sad Mouse Down"
+		},
+		{
+			"offsets": [
+				-10,
+				87
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sad Mouse Idle"
+		},
+		{
+			"offsets": [
+				32,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sad Mouse Left"
+		},
+		{
+			"offsets": [
+				25,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sad Mouse Rigth"
+		},
+		{
+			"offsets": [
+				-28,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sad Mouse Up"
+		},
+		{
+			"offsets": [
+				0,
+				148
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "suicide",
+			"indices": [],
+			"name": "Suicide"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WeekSuicide/SM",
+	"position": [
+		-85,
+		195
+	],
+	"healthicon": "badend",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		46,
+		40
+	],
+	"camera_position": [
+		0,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

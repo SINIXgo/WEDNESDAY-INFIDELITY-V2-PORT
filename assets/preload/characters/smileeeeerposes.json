@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				199,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Suicide Down"
+		},
+		{
+			"offsets": [
+				301,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Suicide Left"
+		},
+		{
+			"offsets": [
+				125,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Suicide Rigth"
+		},
+		{
+			"offsets": [
+				101,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Suicide Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WeekSuicide/SuicidePoses",
+	"position": [
+		-5,
+		-35
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		-260,
+		60
+	],
+	"sing_duration": 5,
+	"scale": 1.2
+}

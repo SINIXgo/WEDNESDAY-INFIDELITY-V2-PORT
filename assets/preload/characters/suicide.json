@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "smiler mouse idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "smiler mouse down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				268
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "smiler mouse left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				164
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "smiler mouse rigth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				239
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "smiler mouse up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WeekSuicide/elrisas",
+	"position": [
+		-55,
+		145
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		-210,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

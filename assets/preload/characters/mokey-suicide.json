@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleMokey"
+		},
+		{
+			"offsets": [
+				150,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNote"
+		},
+		{
+			"offsets": [
+				84,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownNote"
+		},
+		{
+			"offsets": [
+				78,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpNote"
+		},
+		{
+			"offsets": [
+				-35,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightNote"
+		},
+		{
+			"offsets": [
+				162,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transforming",
+			"indices": [],
+			"name": "TransformingBruh"
+		},
+		{
+			"offsets": [
+				94,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cry",
+			"indices": [],
+			"name": "CryingAnim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sad_Mokey_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mokey",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		124,
+		124
+	],
+	"camera_position": [
+		-50,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

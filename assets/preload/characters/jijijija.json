@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				71,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "risa",
+			"indices": [],
+			"name": "laugh instancia 1"
+		},
+		{
+			"offsets": [
+				71,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "risaSingle",
+			"indices": [
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				34,
+				34,
+				34
+			],
+			"name": "laugh instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WeekSuicide/RisaQueChistosoAjsjsajsj",
+	"position": [
+		-95,
+		-45
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		89,
+		81
+	],
+	"camera_position": [
+		-160,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

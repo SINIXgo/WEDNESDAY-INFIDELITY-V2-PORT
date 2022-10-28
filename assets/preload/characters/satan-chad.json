@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SATAN IDLE"
+		},
+		{
+			"offsets": [
+				201,
+				-195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SATAN LEFT"
+		},
+		{
+			"offsets": [
+				128,
+				-229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SATAN DOWN"
+		},
+		{
+			"offsets": [
+				123,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SATAN UP"
+		},
+		{
+			"offsets": [
+				-5,
+				-309
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SATAN RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Iratus/Satan",
+	"position": [
+		-150,
+		-100
+	],
+	"healthicon": "satan",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		-500,
+		-100
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2.2
+}

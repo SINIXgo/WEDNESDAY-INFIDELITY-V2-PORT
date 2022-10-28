@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MIKI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				97
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MIKI DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				181
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Miki UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-282,
+				32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MIKI RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MIKI IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WeekSuicide/IN-Mickey",
+	"position": [
+		-120,
+		252
+	],
+	"healthicon": "hellholemickey",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		46,
+		40
+	],
+	"camera_position": [
+		-150,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}
